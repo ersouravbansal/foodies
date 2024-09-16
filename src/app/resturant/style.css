@@ -1,0 +1,22 @@
+.sv_head-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.sv_head-wrap ul {
+  display: flex;
+}
+.sv_head-wrap ul li {
+  list-style-type: none;
+  padding: 5px;
+}
+.sv_head-wrap ul li a {
+  text-decoration: none;
+}
+.sv_footer-wrap{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    background-color: #fff;
+}
